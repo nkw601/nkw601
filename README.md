@@ -36,7 +36,7 @@
 
 ## :chart_with_upwards_trend: GitHub Stats  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kw601&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![Lani's GitHub stats](https://github-readme-stats.vercel.app/api?username=kw601&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkw601&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Lani's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkw601&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
