@@ -2,47 +2,38 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=d3d3d3&height=300&section=header&text=Lani's%20GitHub&fontColor=000000)
 
+---
 
-## :sunny: I've used
+## :sunny: Tech Stack
 
-### 📝 Language   
-<!--Java-->
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  
-<!--Python-->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-<!--HTML5-->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
-<!--JavaScript-->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
-<!--CSS3-->
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  
+### 🧩 Backend
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
 
-### 📚 Library & Framework  
-<!--SpringBoot-->
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<!--PyTorch-->
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>  
-<!--Tensorflow-->
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>  
-<!--Scikit-Learn-->
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>  
-
-### 🛠 Tools  
+### 🗄 Database & Cache
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+
+### 🚀 Infra & DevOps
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
-<!--Git-->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  
-<!--GitHub-->
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  
-   
-   <br/>
-   <br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
-## :chart_with_upwards_trend: GitHub Stats  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkw601&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![Lani's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkw601&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-  
+### 🧠 AI / Data (Side)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+---
+
+## :chart_with_upwards_trend: Stats
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=herb601)](https://solved.ac/herb601)
+
+[![Lani's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkw601&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 </div>
